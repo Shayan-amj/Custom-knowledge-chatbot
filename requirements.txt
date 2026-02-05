@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+torch
+langchain
+langchain-ollama
+pdfplumber
+scikit-learn
+numpy
+pillow
