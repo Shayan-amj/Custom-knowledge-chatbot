@@ -96,8 +96,8 @@ The system is divided into **two main pipelines**:
 
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/offline-rag-chatbot.git
-cd offline-rag-chatbot
+git clone https://github.com/Shayan-amj/Custom-knowledge-chatbot.git
+cd Custom-knowledge-chatbot
 ```
 ---
 ### 2️⃣ Install Python Dependencies
